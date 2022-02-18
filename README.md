@@ -1,4 +1,10 @@
-### Hi there 👋
+## Welcome traveler 👋
+### My friends call me Eddie and I am a React Front-End Developer. I just completed Turing's 7 month coding bootcamp and I am currently looking for a junior front-end developer position.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardkrupicka&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardkrupicka&theme=calm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **edwardkrupicka/edwardkrupicka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
