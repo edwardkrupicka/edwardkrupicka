@@ -1,4 +1,4 @@
-## Welcome traveler 👋 
+## Welcome stranger :octocat:
 ### My friends call me Eddie and I am a React Front-End Developer. I just completed Turing's 7 month coding bootcamp and I am currently looking for a junior front-end developer position. I'm always looking to learn new tech and collaborate with creative coders, reach out and let's create something!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardkrupicka/)
 
