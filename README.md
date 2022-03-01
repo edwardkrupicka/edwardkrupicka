@@ -1,5 +1,6 @@
 ## Welcome stranger :octocat:
-### My friends call me Eddie and I am a React Front-End Developer. I just completed Turing's 7 month coding bootcamp and I am currently looking for a junior front-end developer position. I'm always looking to learn new tech and collaborate with creative coders, reach out and let's create something!
+### My friends call me Eddie and I am a React Front-End Developer & US Air Force Veteran. I just completed Turing's 7 month coding bootcamp and I am actively looking for a junior front-end developer position. I'm always looking to learn new tech and collaborate with creative coders, reach out and let's create something! Contact me at edwardkrupicka@gmail.com for inquiries and feel free to check out my [resume](https://www.canva.com/design/DAE5qO0ba5U/uHChnX5w2oK3PxP4lhvASA/view?utm_content=DAE5qO0ba5U&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton).
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardkrupicka/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardkrupicka&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
