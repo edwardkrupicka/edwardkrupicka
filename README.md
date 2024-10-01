@@ -1,5 +1,7 @@
 ## Welcome stranger :octocat:
-### My friends call me Eddie and I am a aspiring programmer & US Air Force Veteran. In 2022 I completed Turing's 7 month front-end coding bootcamp and mmoved onto completing my BS in Computer Science. I'm always looking to learn new tech and collaborate with creative coders, reach out and let's create something! Contact me at edwardkrupicka@gmail.com for inquiries and feel free to check out my [resume](https://www.canva.com/design/DAE7Q8exiS0/eB9Nt_UogebL_cKIO5poBg/view?utm_content=DAE7Q8exiS0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+### Hi, I'm Eddie – an aspiring programmer, Air Force veteran, and passionate coder. After serving in the U.S. Air Force, I completed Turing's 7-month front-end coding boot camp in 2022, where I honed my skills in React JS to build engaging websites. Now, I'm pursuing a Bachelor's in Computer Science to deepen my technical knowledge and continue exploring new technologies.
+
+### I'm always eager to collaborate with creative minds and tackle innovative projects. Let's connect and bring exciting ideas to life! Feel free to reach out at edwardkrupicka@gmail.com and check out my [resume](https://www.canva.com/design/DAE7Q8exiS0/eB9Nt_UogebL_cKIO5poBg/view?utm_content=DAE7Q8exiS0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)..
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardkrupicka/)
 
