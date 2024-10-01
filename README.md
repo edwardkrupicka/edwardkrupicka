@@ -1,5 +1,5 @@
 ## Welcome stranger :octocat:
-### Hi, I'm Eddie – an aspiring programmer, Air Force veteran, and passionate coder. After serving in the U.S. Air Force, I completed Turing's 7-month front-end coding boot camp in 2022, where I honed my skills in React JS to build engaging websites. Now, I'm pursuing a Bachelor's in Computer Science to deepen my technical knowledge and continue exploring new technologies.
+### Hi, I'm Eddie – an aspiring Front-end developer, Air Force veteran, and passionate coder. After serving in the U.S. Air Force, I completed Turing's 7-month front-end coding boot camp in 2022, where I honed my skills in React JS to build engaging websites. Now, I'm pursuing a Bachelor's in Computer Science to deepen my technical knowledge and continue exploring new technologies.
 
 ### I'm always eager to collaborate with creative minds and tackle innovative projects. Let's connect and bring exciting ideas to life! Feel free to reach out at edwardkrupicka@gmail.com and check out my [resume](https://www.canva.com/design/DAE7Q8exiS0/eB9Nt_UogebL_cKIO5poBg/view?utm_content=DAE7Q8exiS0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)..
 
